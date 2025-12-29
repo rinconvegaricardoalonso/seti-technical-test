@@ -1,6 +1,6 @@
 spring:
   application:
-    name: technical-test
+    name: technical-test-hexagonal
   flyway:
     enabled: true
     url: ${SPRING_FLYWAY_URL}
